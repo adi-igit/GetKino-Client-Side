@@ -1,10 +1,10 @@
 # GetKino - Your Ultimate Movie Companion
 
-The current state of this web application solely encompasses the client side of the project.
-
 ![GetKino](https://res.cloudinary.com/dd40wbf0z/image/upload/v1692417279/3_sjvp7u.png)
 
 Welcome to GetKino, your go-to movie companion developed with React.js! GetKino provides an immersive platform for exploring movies, checking out their details, and discovering what's trending in the world of cinema.
+
+The current state of this web application solely encompasses the client side of the project.
 
 ## 🎬 Features
 
