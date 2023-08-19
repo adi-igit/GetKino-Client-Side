@@ -6,7 +6,7 @@ Welcome to GetKino, your go-to movie companion developed with React.js! GetKino 
 
 The current state of this web application solely encompasses the client side of the project.
 
-## 🎬 Features
+## Features
 
 - **Browse Movies**: Discover a vast collection of movies, from classics to the latest releases, all at your fingertips.
 
@@ -18,7 +18,7 @@ The current state of this web application solely encompasses the client side of 
 
 - **User Favorites**: Keep track of your favorite movies and create your personalized watchlist.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository to your local machine:
 
@@ -43,23 +43,23 @@ The current state of this web application solely encompasses the client side of 
 
 5. Open your browser and visit http://localhost:3000 to start exploring movies with GetKino!
 
-## 🎥 Technologies Used
+## Technologies Used
 
 * **React.js**: A versatile JavaScript library for building dynamic user interfaces.
 * **React Router**: For efficient and dynamic client-side routing.
 * **The Movie Database (TMDb) API**: Powering movie data and details in the app.
 
-## 🍿 Contributing
+## Contributing
 
 Your contributions can make GetKino even more exciting! Here's how you can get involved:
 
 * Open an issue for suggestions, bug reports, or feature requests.
 * Fork the repository and submit a pull request to contribute your enhancements.
 
-## 📜 License
+## License
 
 GetKino is released under the [MIT](https://github.com/adi-igit/GetKino-Client-Side/blob/main/LICENCE.md) License. Get ready to build upon this project and enhance the world of movie exploration!
 
 Immerse yourself in the world of cinema with GetKino, an engaging React.js application. Explore, discover, and dive into the world of movies like never before.
 
-Enjoy the show! 🎥🍿
+Enjoy the show!
